@@ -3,7 +3,7 @@ Updated  cypher rat v3.5
 ------------------------------------------------------------------------
 # new functionality has been added to wipe content of phone
 # persistence has been improved apk cannot be deleted!
-# unless u remove the conntection
+# unless u remove the connectection
 # stable fucking Build
 # Telegram @freewayrickyross
 
